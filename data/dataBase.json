@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Learn",
+      "datetime": "October 10, 2023 11:32:31 AM",
+      "body": "Learn through videos"
+    },
+    {
+      "id": 2,
+      "title": "Consistency",
+      "datetime": "October 10, 2023 11:33:31 AM",
+      "body": "Keep consistency and see the difference on you."
+    },
+    {
+      "id": 3,
+      "title": "Practice",
+      "datetime": "October 10, 2023 11:33:57 AM",
+      "body": "Do practice and get the oppurtunity"
+    }
+  ]
+}
